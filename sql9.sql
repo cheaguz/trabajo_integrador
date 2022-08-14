@@ -1,0 +1,1 @@
+UPDATE `dueno` SET `DIRECCION`='Libertad 123' WHERE dni='14922234'
